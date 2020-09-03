@@ -1,0 +1,31 @@
+#myCanvas{
+    background: forestgreen;
+    margin-left: 370px;
+}
+#background{
+background-image: url("https://c.wallhere.com/photos/48/6f/Barcelona_FC_Barcelona_stadium_Camp_Nou-172887.jpg!d")
+}
+#start{
+    background-color: yellow;
+    width: 60px;
+    height: 30px;
+    margin-left: 50%;
+}
+#reset{
+    background-color: red;
+    width: 60px;
+    height: 30px;
+}
+#score{
+    background-color: white;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50%;
+}
+#rule{
+    background-color: aqua;
+    color: aliceblue;
+    margin-top: 20px;
+}
